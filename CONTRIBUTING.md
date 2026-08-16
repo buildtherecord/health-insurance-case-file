@@ -9,7 +9,8 @@ contributions come from people who have actually run the method.
   fixed it, PR the fix with one sentence on what went wrong. Keep the discipline
   rules intact — PRs that soften the evidence rules (source-or-it-doesn't-enter,
   verbatim quotes, no padded counts) will be declined.
-- **Plan-type and state notes.** Short files under `jurisdictions/`: the appeal
+- **Plan-type and state notes.** Files under `jurisdictions/` — copy `jurisdictions/TEMPLATE.md`, cite primary
+  sources, run `python3 tools/validate_jurisdictions.py` before the PR: the appeal
   machinery for a plan type or state — windows, the external-review body, the
   regulator, quirks. Cite the rule; no legal advice, just signposts.
 - **Insurer notes.** What worked in claim-file requests, portal quirks, where the

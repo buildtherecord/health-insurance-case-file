@@ -49,8 +49,10 @@ reviewing clinician. Request it immediately, before drafting the appeal. Appeals
 are won on gaps between what the plan's own criteria say and what the reviewer did:
 a cardiology denial reviewed by a non-specialist, criteria that don't match the
 plan document, a "review" completed in less time than it takes to read the chart.
-You cannot find those gaps without the file. (This is the exact analog of
-requesting the manufacturer's diagnostic logs in the lemon-law method.)
+You cannot find those gaps without the file. Across this family of methods we
+call this the **counterparty-file principle**: whoever decided against you
+assembled a file to do it, and you are usually entitled to see it — request it
+before you argue with it.
 
 ## 5. The record is process facts; medicine belongs to your physician
 
