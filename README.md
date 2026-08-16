@@ -63,8 +63,9 @@ and get professional help when the stakes are high.
 
 Prompt fixes from real appeals, plan-type notes (ERISA vs. state vs. MA vs. Medicaid),
 state external-review notes, and anonymized outcomes are welcome. Real medical records
-or claim documents are not — this repo stays 100% synthetic. See
-[`CONTRIBUTING.md`](CONTRIBUTING.md).
+or claim documents are not — this repo stays 100% synthetic. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
+**Lawyers:** an hour of practitioner review is the most valuable contribution of
+all — see the note there, or write to **mailbox@buildtherecord.org**.
 
 ## License
 
