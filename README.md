@@ -16,7 +16,7 @@ one source of truth, every number verified, quote-them-verbatim, the record argu
 existing — adapted to a world of EOBs, denial codes, medical-necessity criteria, and
 **deadlines that can kill a valid claim**.
 
-**See what you end up with:** the [demo appeal file](https://buildtherecord.github.io/health-insurance-case-file/)
+**See what you end up with:** the [demo appeal file](https://buildtherecord.org/health-insurance-case-file/)
 — a fully fictional exemplar (every name, plan, document, and number invented).
 
 ## What you end up with
