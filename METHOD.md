@@ -1,6 +1,6 @@
 # The method — health-insurance edition
 
-The core doctrine is shared with [lemon-case-file](https://github.com/CaitlinEverett/lemon-case-file):
+The core doctrine is shared with [lemon-case-file](https://github.com/buildtherecord/lemon-case-file):
 one source of truth, every number computed and asserted at build time, a screenshot
 or letter proves only what is visible in it, quote them verbatim, curate ruthlessly,
 never omit what would make you look dishonest, and **the record argues by existing**.

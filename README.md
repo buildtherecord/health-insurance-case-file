@@ -11,12 +11,12 @@ The appeal you never file is the denial that stands. Insurers know this; some ha
 built denial pipelines that depend on it (see [`EXEMPLARS.md`](EXEMPLARS.md)).
 
 This is the health-insurance sibling of
-[lemon-case-file](https://github.com/CaitlinEverett/lemon-case-file). Same doctrine —
+[lemon-case-file](https://github.com/buildtherecord/lemon-case-file). Same doctrine —
 one source of truth, every number verified, quote-them-verbatim, the record argues by
 existing — adapted to a world of EOBs, denial codes, medical-necessity criteria, and
 **deadlines that can kill a valid claim**.
 
-**See what you end up with:** the [demo appeal file](https://caitlineverett.github.io/health-insurance-case-file/)
+**See what you end up with:** the [demo appeal file](https://buildtherecord.github.io/health-insurance-case-file/)
 — a fully fictional exemplar (every name, plan, document, and number invented).
 
 ## What you end up with
