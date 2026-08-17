@@ -1,5 +1,13 @@
 # health-insurance-case-file
 
+> **Volunteer project — no response guarantee.** Nobody is on duty here. Issues and
+> pull requests are read, but replies are not guaranteed and can take a long time.
+> The method works as-is without contacting anyone.
+>
+> **Not a coder? You do not need GitHub.** Each method has a plain-language,
+> step-by-step guide that works on a phone: **https://buildtherecord.org/start.html**
+
+
 **A method and a set of AI prompts for a patient (or their family) to fight a health
 insurance denial with a professional-grade paper record** — the internal appeal, the
 external review, and the regulator complaint — without hiring anyone.
